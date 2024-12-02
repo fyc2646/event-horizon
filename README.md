@@ -1,6 +1,21 @@
 # Event Horizon - Google Calendar Desktop Widget
 
-A minimalist desktop widget that displays your upcoming Google Calendar events with real-time notifications.
+Stay Ahead, Stay Organized
+
+In a fast-paced world, managing your schedule shouldn't be a hassle. EventHorizon is your minimalist desktop companion, designed to keep your Google Calendar events at your fingertips. No more switching tabs or fumbling through apps—EventHorizon brings your schedule directly to your desktop, always visible, always in sync.
+
+Why Choose EventHorizon?
+Always-On Visibility
+Never miss an important meeting or deadline. EventHorizon’s resizable and sleek interface ensures your events are always in view.
+
+Real-Time Sync
+Stay up-to-date with your Google Calendar. Whether it’s a last-minute change or a new event, EventHorizon keeps you informed in real time.
+
+Minimalist Design
+A clean, distraction-free interface fits seamlessly into your desktop environment without getting in your way.
+
+No-Frills Productivity
+Built for simplicity and efficiency. EventHorizon focuses on what matters—your events, clearly displayed.
 
 ## Features
 
@@ -10,6 +25,10 @@ A minimalist desktop widget that displays your upcoming Google Calendar events w
 - Automatic refresh every 15 minutes
 - Clean, modern interface
 - Windows toast notifications with sound
+
+## Demo
+
+![Event Horizon Demo](demo.png)
 
 ## Setup Instructions
 
