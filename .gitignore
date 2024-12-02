@@ -33,8 +33,9 @@ env/
 *.swo
 
 # Project specific
-token.pickle
+# Google Calendar API credentials
 credentials.json
+token.pickle
 
 # Windows
 Thumbs.db
