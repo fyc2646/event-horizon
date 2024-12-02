@@ -28,7 +28,7 @@ Built for simplicity and efficiency. EventHorizon focuses on what matters—your
 
 ## Demo
 
-![Event Horizon Demo](demo.png)
+<img src="demo.png" alt="Event Horizon Demo" width="50%" />
 
 ## Setup Instructions
 
